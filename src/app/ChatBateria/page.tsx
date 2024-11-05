@@ -178,7 +178,7 @@ export default function ChatBateria() {
 
                             O que você pode fazer:
                             <ul>
-                                <li>Tentar dar uma "chupeta" na bateria. Se tiver outro carro por perto, pode tentar ligar o seu usando a bateria do outro veículo.</li>
+                                <li>Tentar dar uma &quot;chupeta&quot; na bateria. Se tiver outro carro por perto, pode tentar ligar o seu usando a bateria do outro veículo.</li>
                             </ul>
                         </MessageText>
                     </Message>

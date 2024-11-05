@@ -137,7 +137,7 @@ export default function FormCadastro() {
 
     return (
         <FormSection>
-            <h2>Faça seu &quot;cadastro&quot;!</h2>
+            <h2>Faça seu cadastro!</h2>
             <Form onSubmit={handleSubmit}>
                 <div>
                     <div>
