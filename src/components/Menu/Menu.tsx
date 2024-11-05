@@ -2,7 +2,7 @@
 
 import IconMais from "@/img/IconMain.svg";
 import IconMenu from "@/img/Icon menu.svg";
-import styled,  { css } from "styled-components";
+import styled from "styled-components";
 import Image from "next/image";
 import { useState } from "react";
 

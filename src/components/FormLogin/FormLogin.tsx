@@ -162,7 +162,6 @@ export default function FormLogin() {
                     <p><strong>O Que é ReparoRápido?</strong></p>
                     <Paragraph>Acesse as informações e descubra tudo o que o ReparoRápido pode te oferecer</Paragraph>
                     <Button>Saiba mais</Button>
-                    <p>Aponta a camêra do celular e <LinkText href="#">Saiba mais!</LinkText></p>
                 </ContainerLearnMore>
             </ContainerForm>
         </FormSection>
