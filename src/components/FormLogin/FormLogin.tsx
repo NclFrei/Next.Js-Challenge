@@ -163,7 +163,6 @@ export default function FormLogin() {
                     <Paragraph>Acesse as informações e descubra tudo o que o ReparoRápido pode te oferecer</Paragraph>
                     <Button>Saiba mais</Button>
                     <p>Aponta a camêra do celular e <LinkText href="#">Saiba mais!</LinkText></p>
-                    <img src="null" alt=""/>
                 </ContainerLearnMore>
             </ContainerForm>
         </FormSection>
