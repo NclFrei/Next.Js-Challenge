@@ -15,6 +15,10 @@ const ContainerImg = styled.div`
     .ImgCar {
       width: 60%;
     }
+
+    @media (max-width: 850px) {
+    display: none;
+}
 `
 
 
